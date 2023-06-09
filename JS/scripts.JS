@@ -13,10 +13,10 @@ function generateList() {
         resultList.push(i);
       }
     }
-
-    document.getElementById("result").innerHTML = resultList.join(",");
-}
-
-function containsDigit(number, digit) {
+  
+    document.getElementById("result").innerHTML = resultList.join(", ");
+  }
+  
+  function containsDigit(number, digit) {
     return number.toString().includes(digit.toString());
-}
+  }
