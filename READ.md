@@ -1,6 +1,7 @@
 # Roboger Project
 
 ### By Daisy Orozco Bautista
+A webpage that converts certain numbers into words!
 
 ## Technology Used 
 * Java Script
@@ -17,6 +18,11 @@ Code:
     var isArray = Array.isArray (result);
     //Check if the array contains the expected numbers
     var expectedArray = 0, "beep!","boop!",
+    
+## Setup Installation
+Go to this link https://github.com/daisyorozcob/Rogers-Neighborhood.git
+Clone into repository
+Play around with the webpage! test it out!
     
 ## Known Bugs 
 No Known Bugs 
